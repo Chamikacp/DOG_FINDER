@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MAD CW1</string>
+    <string name="identify_the_dog">Identify The Dog</string>
+    <string name="quit">Quit</string>
+    <string name="identiy_the_breed">Identiy The Breed</string>
+    <string name="search_dog_breeds">Search Dog Breeds</string>
+    <string name="dog_finder">DOG FINDER</string>
+    <string name="dog_icon">Dog_Icon</string>
+    <string name="select_the_dog_breed">Select the Dog breed</string>
+    <string name="guess_the_breed">Guess The Breed</string>
+    <string name="dogimage">DogImage</string>
+    <string name="dog_image">Dog_Image</string>
+    <string name="breed1">Breed1</string>
+    <string name="guess_the_flag">Guess The Flag</string>
+    <string name="guess_the_dog">Guess the Dog</string>
+    <string name="breed2">breed2</string>
+    <string name="breed3">breed3</string>
+    <string name="search_the_breed">Search the breed</string>
+    <string name="identify_the_bree">Identify the Bree</string>
+    <string name="identify_the_breed">Identify the Breed</string>
+    <string name="enter_the_breed">Enter The Breed</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="stop">Stop</string>
+    <string name="timer">Timer</string>
+    <string name="loading">Loading</string>
+    <string name="how_to_play">How To Play</string>
+    <string name="how_to_play1">You have to select the correct breed from given picture from the dropdown menu. If the timer is on you have 10 seconds to submit your answer</string>
+    <string name="how_to_play2">You have to select the correct picture from given breed. If the timer is on you have 10 seconds to answer. </string>
+    <string name="start">Start</string>
+
+
+    <string-array name="breeds_array">
+        <item>airedale</item>
+        <item>basset</item>
+        <item>beagle</item>
+        <item>boxer</item>
+        <item>briard</item>
+        <item>cardigan</item>
+        <item>collie</item>
+        <item>doberman</item>
+        <item>husky</item>
+        <item>komondor</item>
+        <item>labrador</item>
+        <item>leonberg</item>
+        <item>pomeranian</item>
+        <item>pug</item>
+        <item>rottweiler</item>
+    </string-array>
+</resources>
